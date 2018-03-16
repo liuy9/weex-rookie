@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/build/intermediates/res/merged/release/menu/main_scan.xml",
+        "source": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/src/main/res/menu/main_scan.xml"
+    },
+    {
+        "merged": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/src/main/res/menu/main.xml"
+    }
+]

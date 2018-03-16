@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi/ic_action_refresh.png",
+        "source": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi/ic_action_scan.png",
+        "source": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/src/main/res/drawable-hdpi/ic_action_scan.png"
+    }
+]

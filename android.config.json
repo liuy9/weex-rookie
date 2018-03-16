@@ -1,0 +1,6 @@
+{
+  "AppName":"WeexRookie",
+  "AppId":"com.bamboo.weex_rookie",
+  "SplashText":"Hello\nrookie",
+  "WeexBundle":"index.js"
+}

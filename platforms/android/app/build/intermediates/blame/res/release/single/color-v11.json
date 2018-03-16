@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/liuyun/百度云同步盘/study/web/weex/weex-app-rookie/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
